@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = cmcglobal.vn.config.TestContainersSpringContextCustomizerFactory
